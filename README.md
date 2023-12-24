@@ -5,7 +5,7 @@
     This project serves as a fun way to practice front-end development skills.
 
 # Play Game
-    [click here](https://vishalgiri-rock-paper-scissor.netlify.app/) 
+    https://vishalgiri-rock-paper-scissor.netlify.app/ 
 
 
 # Rules for the game
