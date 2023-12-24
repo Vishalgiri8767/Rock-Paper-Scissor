@@ -1,5 +1,8 @@
-# Rules for the game
+# check the site
+https://vishalgiri-rock-paper-scissor.netlify.app/ <br><br>
 
+
+# Rules for the game
 The rules are very simple and probably you remember them from your childhood :<br>
           ♦ If you choose Rock, you will win against Scissors but lose against Paper.<br>
           ♦ If you choose Scissors, you will win against Paper but lose against Rock.<br>
