@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="icon/images" href="/Images/rock-paper-scissors.png">
+
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>Rock Paper Scissors</h1>
+        </div>
+
+        <div class="choice">
+           <div class="images" id="rock"> <img src="/Images/rock.png"></div>
+           <div class="images" id="paper"><img src="/Images/paper.png"></div>
+           <div class="images" id="scissors"><img src="/Images/scissors.png"></div>
+        </div>
+
+        <div class="score">
+            <div class="your-score">
+                <p class="point" id="user">0</p>
+                <p class="player">You</p>
+            </div>
+            <div class="round">
+                <p class="point" id="roundCount">0</p>
+                <p class="player">Round</p>
+            </div>
+            <div class="draw">
+                <p class="point" id="drawCount">0</p>
+                <p class="player">Draw</p>
+            </div>
+            <div class="comp-score">
+                <p class="point" id="comp">0</p>
+                <p class="player">Comp</p>
+            </div>
+        </div>
+        <div class="msg-container">
+            <span id="msg">Pick Your Move</span>
+        </div>
+
+        <div class="footer">
+            <span>Desiged by ❤️</span>
+            <a href="https://github.com/Vishalgiri8767">Vishal Giri</a>
+
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
