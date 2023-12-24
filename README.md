@@ -2,7 +2,7 @@
     This is a simple web-based Rock, Paper, Scissors game created using HTML, CSS, and JavaScript.<br> Users can play the classic game against the computer, making their choices and seeing who wins each round.<br> This project serves as a fun way to practice front-end development skills.
 
 # Check the site
-    https://vishalgiri-rock-paper-scissor.netlify.app/ 
+    [click here](https://vishalgiri-rock-paper-scissor.netlify.app/) 
 
 
 # Rules for the game
