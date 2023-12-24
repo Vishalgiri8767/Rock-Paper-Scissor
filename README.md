@@ -4,8 +4,8 @@
     seeing who wins each round.
     This project serves as a fun way to practice front-end development skills.
 
-# Check the site
-    (https://vishalgiri-rock-paper-scissor.netlify.app/) 
+# Play Game
+    [click here](https://vishalgiri-rock-paper-scissor.netlify.app/) 
 
 
 # Rules for the game
