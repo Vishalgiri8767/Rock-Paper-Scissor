@@ -3,10 +3,11 @@
     Users can play the classic game against the computer, making their choices and 
     seeing who wins each round.
    **This project serves as a fun way to practice front-end development skills.**
-    [click here](https://vishalgiri-rock-paper-scissor.netlify.app/)
+    **[##click here to play Game](https://vishalgiri-rock-paper-scissor.netlify.app/)**
 
-## Play Game
+
     
+  
 
     
 ## Rules for the game
