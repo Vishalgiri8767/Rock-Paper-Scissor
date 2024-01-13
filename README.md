@@ -5,7 +5,7 @@
    **This project serves as a fun way to practice front-end development skills.**
 
 ## Play Game
-  
+    [click here](www.google.com)
 ## Rules for the game
     The rules are very simple and probably you remember them from your childhood : <br>
           ♦ If you choose Rock, you will win against Scissors but lose against Paper.<br>
