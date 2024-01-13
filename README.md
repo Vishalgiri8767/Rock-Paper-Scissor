@@ -6,6 +6,7 @@
 
 ## Play Game
     [click here](https://vishalgiri-rock-paper-scissor.netlify.app/) 
+    [click here](www.google.com)
 
 ## Rules for the game
     The rules are very simple and probably you remember them from your childhood : <br>
