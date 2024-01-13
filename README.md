@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game
+# Rock, Paper, Scissors Game 🚀
     This is a simple web-based Rock, Paper, Scissors game created using HTML, CSS, and JavaScript. 
     Users can play the classic game against the computer, making their choices and 
     seeing who wins each round.
