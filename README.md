@@ -3,9 +3,12 @@
     Users can play the classic game against the computer, making their choices and 
     seeing who wins each round.
    **This project serves as a fun way to practice front-end development skills.**
+    [click here](https://vishalgiri-rock-paper-scissor.netlify.app/)
 
 ## Play Game
-    [click here](www.google.com)
+    
+
+    
 ## Rules for the game
     The rules are very simple and probably you remember them from your childhood : <br>
           ♦ If you choose Rock, you will win against Scissors but lose against Paper.<br>
